@@ -17,4 +17,3 @@ ignore_patterns:
   - "Build/**"
   - "obj/**"
   - "**/*.meta"
-  - 
