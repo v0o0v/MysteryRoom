@@ -48,4 +48,3 @@ Unity/C# 우선 리뷰 항목:
 
 리뷰 우선순위:
 - correctness > performance > structure > style
-- 
